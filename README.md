@@ -1,6 +1,6 @@
 # Smaller Package Alternatives
 
-<img width="200px" src="./icon.png"/>
+<img width="200px" src="./icon2.png"/>
 
 > A curated list of smaller alternatives to common Node.js modules.
 
