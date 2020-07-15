@@ -9,14 +9,19 @@
 | Package           | Alternatives    |
 | :---------------- | :-------------- |
 | lodash            | angus-c/just    |
-| moment.js         | dayjs           |
+| moment            | dayjs           |
 | React/Vue/Angular | svelte          |
 | FlatPickr         | svelte-calendar |
 | FontAwesome       | feather-icons   |
+| polished          | tinycolor2      |
 
 ## Packages needing smaller alternatives
 
 - bn.js
+
+## Other resources
+
+- [BundlePhobia.com](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle. Shows alternatives too.
 
 ## Related lists:
 
