@@ -6,14 +6,15 @@
 
 ## Packages
 
-| Package           | Alternatives    |
-| :---------------- | :-------------- |
-| lodash            | angus-c/just    |
-| moment            | dayjs           |
-| React/Vue/Angular | svelte          |
-| FlatPickr         | svelte-calendar |
-| FontAwesome       | feather-icons   |
-| polished          | tinycolor2      |
+| Package                                 | Alternatives                                                          | Purpose         |
+| :-------------------------------------- | :-------------------------------------------------------------------- | :-------------- |
+| [lodash](https://lodash.com/)           | [angus-c/just](https://github.com/angus-c/just)                       | Javascript utility classes |
+| [moment](https://momentjs.com/)         | [dayjs](https://github.com/iamkun/dayjs)                              | Time utilities and formatting |
+| React/Vue/Angular                       | [svelte](https://svelte.dev)                                          | UI Framework |
+| [FlatPickr](https://flatpickr.js.org/)  | [svelte-calendar](https://github.com/6eDesign/svelte-calendar)        | Calendar Component
+| FontAwesome                             | feather-icons                                                         | Icon Library
+| polished                                | tinycolor2                                                            |
+| [SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) | [Pell](https://github.com/jaredreich/pell) | Rich Text Editor
 
 ## Packages needing smaller alternatives
 
