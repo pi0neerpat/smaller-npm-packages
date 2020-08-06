@@ -32,7 +32,7 @@
 
 ## Contribute
 
-Contributions welcome! (No contribution guidelines yet)
+Contributions welcome! All contributors must abide by the [Code of Conduct](./code-of-conduct.md).
 
 ## License
 
